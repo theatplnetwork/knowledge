@@ -5,7 +5,7 @@ title: Becoming a pilot
 
 # The journey of becoming a pilot
 
-All roads lead to rome and almost as many do to a seat in a cockpit.In the following paragraphs we'll focus on
+All roads lead to Rome and almost as many do to a seat in a cockpit.In the following paragraphs we'll focus on
 obtaining an EASA (or UK CAA) license in Europe, but be told, there are many more ways to get there.
 
 If your aim is to be employable as a first officer (second in command) at an airline,
