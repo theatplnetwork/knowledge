@@ -13,7 +13,7 @@ This project is aimed to collect and provide knowledge about aviation, including
 
 ### Get started
 
-- create your own fork of this project
+- create your own [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of this project
 - clone your fork using git and configure it to contribute to the upstream repository
 - within the project execute `uv sync`
 - to start local development run `uv run zensical` and `zensical serve`
