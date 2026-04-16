@@ -5,11 +5,15 @@ title: Becoming a pilot
 
 # The journey of becoming a pilot
 
+## All roads lead to Rome...
+
 All roads lead to Rome and almost as many do to a seat in a cockpit.In the following paragraphs we'll focus on
 obtaining an EASA (or UK CAA) license in Europe, but be told, there are many more ways to get there.
 
 If your aim is to be employable as a first officer (second in command) at an airline,
 you'll need either an "fATPL", meaing a CPL(A) with an ATPL theory credit, or an MPL.
+
+### The MPL
 
 The MPL is only available as an integrated course, even more so, it needs to be partnered with an airline.
 This has the advantage that you know which airline you will end up with already at the beginning of the course,
@@ -19,6 +23,8 @@ case-by-case basis. Keeping that in mind, the MPL is from the beginning targeted
 in a multi-crew environment. You'll have more time in the simulator for an A320, B737 or whatever aircraft the
 airline determined the one for your first job, compared to other courses. Your final skill test for the
 issuance of the license will also be on this aircraft, in the simulator.
+
+### The CPL
 
 A CPL(A) with ATPL theory credit can be obtained either in a modular or an integrated course. There is no clear
 "better way" and neither is per say cheaper, it depends on your own situation and the ATO(s) you choose.
@@ -38,6 +44,7 @@ job opportunities that you would not get otherwise. Be aware however that you de
 relation. Otherwise on the free market, an integrated course graduate is not seen as significantly better than
 a modular graduate, as some integrated ATOs might try to claim.
 
+## Already hold a license?
 
 If you already hold a PPL, you may no longer chose the path of the MPL. You do however have the choice between the CPL modular and the ATP integrated course. If you are interested in an integrated course, keep in mind that you are subject to crediting of flight hours. This can reduce the total cost of the integrated course, however it is likely that your experience will not be credited in full. A modular course will likely be more cost effective.
 
