@@ -5,9 +5,13 @@ title: Becoming a pilot
 
 # The journey of becoming a pilot
 
+<!-- rumdl-disable MD026-->
+
 ## All roads lead to Rome...
 
-All roads lead to Rome and almost as many do to a seat in a cockpit.In the following paragraphs we'll focus on
+<!-- rumdl-enable MD026 -->
+
+All roads lead to Rome and almost as many do to a seat in a cockpit. In the following paragraphs we'll focus on
 obtaining an EASA (or UK CAA) license in Europe, but be told, there are many more ways to get there.
 
 If your aim is to be employable as a first officer (second in command) at an airline,
@@ -46,7 +50,11 @@ a modular graduate, as some integrated ATOs might try to claim.
 
 ## Already hold a license?
 
-If you already hold a PPL, you may no longer chose the path of the MPL. You do however have the choice between the CPL modular and the ATP integrated course. If you are interested in an integrated course, keep in mind that you are subject to crediting of flight hours. This can reduce the total cost of the integrated course, however it is likely that your experience will not be credited in full. A modular course will likely be more cost effective.
+If you already hold a PPL, you may no longer chose the path of the MPL. You do however have the choice between
+the CPL modular and the ATP integrated course. If you are interested in an integrated course, keep in mind that
+you are subject to crediting of flight hours. This can reduce the total cost of the integrated course, however
+it is likely that your experience will not be credited in full. A modular course will likely be more cost
+effective.
 
 <!-- prettier-ignore-start -->
 *[EASA]: European Union Aviation Safety Agency
