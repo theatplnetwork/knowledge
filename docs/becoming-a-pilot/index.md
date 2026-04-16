@@ -38,6 +38,9 @@ job opportunities that you would not get otherwise. Be aware however that you de
 relation. Otherwise on the free market, an integrated course graduate is not seen as significantly better than
 a modular graduate, as some integrated ATOs might try to claim.
 
+
+If you already hold a PPL, you may no longer chose the path of the MPL. You do however have the choice between the CPL modular and the ATP integrated course. If you are interested in an integrated course, keep in mind that you are subject to crediting of flight hours. This can reduce the total cost of the integrated course, however it is likely that your experience will not be credited in full. A modular course will likely be more cost effective.
+
 <!-- prettier-ignore-start -->
 *[EASA]: European Union Aviation Safety Agency
 *[CAA]: Civil Aviation Authority
