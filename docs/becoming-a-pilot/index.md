@@ -15,7 +15,7 @@ All roads lead to Rome and almost as many do to a seat in a cockpit. In the foll
 obtaining an EASA (or UK CAA) license in Europe, but be told, there are many more ways to get there.
 
 If your aim is to be employable as a first officer (second in command) at an airline,
-you'll need either an "fATPL", meaing a CPL(A) with an ATPL theory credit, or an MPL.
+you'll need either an "fATPL", meaning a CPL(A) with an ATPL theory credit, or an MPL.
 
 ### The MPL
 
