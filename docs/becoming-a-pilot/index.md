@@ -88,7 +88,7 @@ realistically and safely finish it, without unnecessary delays or financial risk
 
 [^1]:
     [Desperate mood after pilot school went bankrupt](https://www-nrk-no.translate.goog/vestfoldogtelemark/desperat-stemning-etter-at-pilot-flight-academy-gikk-konkurs_-_-fortvilende-1.17714073?_x_tr_sl=auto&_x_tr_tl=en),
-    NRK.no, 05.01.2026 (in Norwegian), retrieved 17.04.2026
+    [NRK.no](https://en.wikipedia.org/wiki/NRK), 05.01.2026 (in Norwegian), retrieved 17.04.2026
 
 [^2]:
     [FTA Global collapses](https://www.ftnonline.co.uk/2023/05/23/fta-global-collapses/),
